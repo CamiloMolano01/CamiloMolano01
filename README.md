@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... ME.
+- I make files .py eventually
+
 <!--
 **CamiloMolano01/CamiloMolano01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
